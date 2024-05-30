@@ -19,6 +19,16 @@ Modele el caso usando diagrama de casos UML y VP.
 ![image](https://github.com/carljav4/Juego-de-Dados/assets/163133151/82ed0b02-e79c-40a5-9fc6-973c69847f18)  
 
 Codifique su solución, considerando el número mínimo de clases y test necesarios para su implementación y pruebas mínimas de funcionamiento.  
+![image](https://github.com/carljav4/Juego-de-Dados/assets/163133151/a3b9e5e6-ff0d-4437-8ac9-16d689b0a513)  
+![image](https://github.com/carljav4/Juego-de-Dados/assets/163133151/66874e73-25d7-4bef-8777-1117b363268c)  
+
+Test necesario en el metodo Calculadora para el buen funcionamiento:  
+![image](https://github.com/carljav4/Juego-de-Dados/assets/163133151/c46326dd-0c07-4e71-b07c-d84f134a4071)
+
+
+
+
+
 
 
 
